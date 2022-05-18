@@ -20,3 +20,4 @@ terraform plan
 # Terraform Apply
 terraform apply -auto-approve
 ```
+## Step - 5: Access the Application using lb_dns_name = [ALB DNS]
